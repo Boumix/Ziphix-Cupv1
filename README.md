@@ -1,2 +1,0 @@
-# Palad
-Modération
