@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 const prefix = '!';
  
-client.login(process.env.TOKEN);
+client.login(NzgwMDE1Njg2NTc1MDYzMTAw.X7o8Nw.6SOf_NOkpGp4mLAxLwb_M04FjTY);
  
 client.on("ready", () => {
   // Cet événement s'exécutera si le bot démarre et se connecte avec succès.
