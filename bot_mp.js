@@ -5,7 +5,7 @@ const prefix = ".";
 
 
 bot.on('ready', async => {
-    console.log("Go Pub bande de saloppe !")
+    console.log("Message Ziphix Cup !")
 })
 
 bot.on('message', message => {
